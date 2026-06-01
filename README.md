@@ -38,3 +38,5 @@ bot.run("@bot:homeserver.org", "password")
 ```
 
 # if you want to build a bot using this library - go read the source code. there is no official documentation, and there might never be. the codebase is designed to be intuitive for anyone familiar with discord.py/disnake, so the best way to learn is to explore the code yourself.
+
+## if you find any bugs or errors, please open an issue (or fix manually and make PR)
